@@ -1,0 +1,27 @@
+{
+    "name": "More Accessible Charts",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "title": "More Accessible Charts",
+      "icon": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "offscreen"
+    ],
+    "host_permissions": [
+      "<all_urls>"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+
+  }
+  
