@@ -10,7 +10,9 @@ A chrome extension to make data charts more accessible to people with vision iss
 # Before Chartbuster📈
 
  <img align="right" alt="GIF" src="https://github.com/AyuDwi1996/Chartbuster/blob/main/Before_Chartbuster.PNG" width="500" height="320" />
-
+<br />
+<br />
+<br />
 # After Chartbuster📉
 
  <img align="right" alt="GIF" src="https://github.com/AyuDwi1996/Chartbuster/blob/main/After_Chartbuster.PNG" width="500" height="320" />
